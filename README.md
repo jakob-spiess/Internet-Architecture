@@ -21,7 +21,7 @@ The application allows participants to exchange messages without a central serve
 
 ## Technologies Used
 
-- Java
+- Python
 - Git
 - UDP Sockets
 - State-based CRDTs
